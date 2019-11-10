@@ -58,13 +58,21 @@
 			children = (
 				17AC83392371A59600B27647 /* AppDelegate.swift */,
 				17AC833B2371A59600B27647 /* SceneDelegate.swift */,
-				17AC833D2371A59600B27647 /* ViewController.swift */,
+				17AC834E2371B06E00B27647 /* Presentation */,
 				17AC833F2371A59600B27647 /* Main.storyboard */,
 				17AC83422371A59800B27647 /* Assets.xcassets */,
 				17AC83442371A59800B27647 /* LaunchScreen.storyboard */,
 				17AC83472371A59800B27647 /* Info.plist */,
 			);
 			path = SieglViewApp;
+			sourceTree = "<group>";
+		};
+		17AC834E2371B06E00B27647 /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+				17AC833D2371A59600B27647 /* ViewController.swift */,
+			);
+			path = Presentation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
